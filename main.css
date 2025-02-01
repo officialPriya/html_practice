@@ -1,0 +1,85 @@
+.header {
+    background-color: aqua;
+    height: 150px;
+    width: auto;
+    padding: 3px;
+    text-align: center;
+}
+
+.first {
+    background-color: rgb(241, 208, 241);
+    height: 400px;
+    width: 600px;
+    text-align: left;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+.Name{
+    background-color: lightpin;
+    height: 200px;
+    width: 30px;
+    
+}
+.secondDiv {
+    background-color: rgb(241, 208, 241);
+    height: 400px;
+    width: 600px;
+    text-align: left;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+.small{
+    background-color: lightpink;
+    height: 100px;
+    width: 100;
+    border: 1px solid black;
+}
+
+.smalltwo{
+    background-color: lightpink;
+    height: 100;
+    width: 100;
+    border: 1px solid black;
+}
+.smallthree{
+    background-color: lightpink;
+    height: 100;
+    width: 100;
+    border: 1px solid black;
+}
+.thirdDiv{
+    background-color: rgb(241, 208, 241);
+    height: 400px;
+    width: 600px;
+    text-align: left;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+.fourthDiv{
+    background-color: rgb(241, 208, 241);
+    height: 400px;
+    width: 600px;
+    text-align: left;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+.Footer{
+    background-color: rgb(177, 175, 175);
+    height: 100px;
+    width: auto;
+    padding: 3px;
+    text-align: center;
+
+}
+
+
+#main{
+    background-color: aqua;
+}
+
+
+#main:hover{
+    background-color: red;
+    color:white;
+    opacity: 0.1;
+}
